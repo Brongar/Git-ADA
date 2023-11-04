@@ -19,3 +19,4 @@
 git push origin master (este ultimo é a branch)
 git pull
 git remote
+git fetch
