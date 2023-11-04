@@ -16,4 +16,6 @@
 *git restore .\arquivo.txt
 *git restore --staged .\arquivo.txt (retorna o estado do arquivo anterior, ex: de staged para modificado)
 
-*uso do comando git restore
+git push origin master (este ultimo é a branch)
+git pull
+git remote
